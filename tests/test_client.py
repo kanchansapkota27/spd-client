@@ -1,7 +1,6 @@
 from pathlib import Path
 import pytest
-import httpx
-from client import SPDClient
+from src.spdclient.client import SPDClient
 
 
 HOST='localhost'

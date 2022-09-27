@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="spd-client",
+    name="spdclient",
     version="0.1",
     description="Python Wrapper for Scrapyd WebServie",
     long_description="It is a Python Wrapper for Scrapyd WebService for easy use of Scrapyd API",

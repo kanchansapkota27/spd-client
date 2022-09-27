@@ -12,7 +12,7 @@ pip install spd-client
 
 ### Basic Usage
 ```python
-from spd-client import SPDClient
+from spdclient import SPDClient
 
 client = SPDClient(
         host,               # Scrapyd Server default 127.0.0.1
