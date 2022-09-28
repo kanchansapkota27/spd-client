@@ -1,13 +1,13 @@
-# spd-client
+# spdclient
 
-`spd-client` is a python wrapper around scrapy's [scrapyd](https://github.com/scrapy/scrapyd) webservice for ease of use.
+`spdclient` is a python wrapper around scrapy's [scrapyd](https://github.com/scrapy/scrapyd) webservice for ease of use.
 
 ## Basics
 
 ### Install
 
 ```
-pip install spd-client
+pip install spdclient
 ```
 
 ### Basic Usage
